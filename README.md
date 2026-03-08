@@ -26,3 +26,13 @@ exibindo alertas visuais (✅/❌) no terminal.
 
 ​O projeto foi adaptado para funcionar de forma offline e independente de servidores externos, demonstrando 
 capacidade analítica para resolver imprevistos técnicos durante o desenvolvimento de software.
+
+Desenvolvimento Assistido por IA
+
+​Este projeto foi construído utilizando metodologias de AI-Augmented Development. 
+
+A inteligência artificial foi utilizada como parceira estratégica para:
+
+​Arquitetura de Solução: Migração rápida da lógica de RPA para um pipeline de dados robusto com Pandas.
+​Resolução de Problemas: Diagnóstico e correção em tempo real de erros de arquivos corrompidos (0 KB) e integração com LibreOffice.
+​Qualidade de Código: Implementação de boas práticas de documentação e tratamento de exceções.
