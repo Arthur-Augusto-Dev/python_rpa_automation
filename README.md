@@ -23,5 +23,6 @@ exibindo alertas visuais (✅/❌) no terminal.
 > ​Compatibilidade: LibreOffice Calc e Microsoft Excel
 
 ​Aprendizado Extra
+
 ​O projeto foi adaptado para funcionar de forma offline e independente de servidores externos, demonstrando 
 capacidade analítica para resolver imprevistos técnicos durante o desenvolvimento de software.
